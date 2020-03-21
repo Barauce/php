@@ -1,6 +1,6 @@
 <?php
 
 
-	echo "Hello<strong> Bidu
+	echo "Hello<strong> Bidu e Nina
 	</strong>"
 ?>
