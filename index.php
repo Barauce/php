@@ -1,6 +1,8 @@
 <?php
 
 
-	echo "Hello<strong> Bidu e Nina
-	</strong>"
+	echo "Hello<strong> Bidu ou Nina
+	</strong>";
+		
+	echo "Nala fedida";
 ?>
